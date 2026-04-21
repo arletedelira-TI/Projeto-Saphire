@@ -33,3 +33,51 @@ A interface apresenta uma proposta clean e moderna, com foco em:
 ---
 
 ## 📁 Estrutura do projeto
+
+saphire/
+│
+├── index.html
+├── style.css
+└── assets/
+└── imagens/
+
+
+---
+
+## 💡 Funcionalidades
+
+- Navbar com navegação básica (Home, Sobre, Contato, Projetos, Blog)
+- Seção principal (hero) com:
+  - Título de destaque
+  - Texto descritivo
+  - Botão de ação (Pesquisar)
+  - Imagem ilustrativa
+- Layout responsivo simples (dependendo da implementação)
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram reforçados conceitos como:
+
+- Uso de tags semânticas (`header`, `section`, `nav`)
+- Posicionamento com **Flexbox**
+- Estilização de botões e tipografia
+- Organização de código CSS
+- Boas práticas de estrutura de páginas
+
+---
+
+## 🧠 Próximos passos (melhorias futuras)
+
+- Tornar o layout totalmente responsivo
+- Adicionar interatividade com JavaScript
+- Implementar formulário funcional
+- Integrar com backend ou API de imóveis
+- Melhorar acessibilidade (A11y)
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Arlete** durante o programa educacional.
