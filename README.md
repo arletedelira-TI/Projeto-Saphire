@@ -35,11 +35,11 @@ A interface apresenta uma proposta clean e moderna, com foco em:
 ## 📁 Estrutura do projeto
 
 saphire/
-│
-├── index.html
-├── style.css
-└── assets/
-└── imagens/
+
+- ├── index.html
+- ├── style.css
+- └── assets/
+- └── imagens/
 
 
 ---
